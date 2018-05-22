@@ -1,3 +1,4 @@
+#include<cmath>
 #include<GL/glut.h>
 #include "Map.h"
 #include<stdio.h>
